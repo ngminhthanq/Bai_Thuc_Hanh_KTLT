@@ -1,4 +1,4 @@
-print("Nguyen Van Thai MSSV: 235752021610005")
+print("Nguyen Minh Thang MSSV: 235752021610097")
 import re
 a=input("Nhap mat khau: ")
 if len(a)<6 or len(a)>12:
