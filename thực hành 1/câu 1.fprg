@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="c&#226;u 1"/>
+        <attribute name="authors" value="AS TUF"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-10-31 08:16:59 SA"/>
+        <attribute name="created" value="QVMgVFVGO1RIQU5RREVQQ0hBSTsyMDI0LTEwLTMxOzA4OjExOjQ2IFNBOzI1NjE="/>
+        <attribute name="edited" value="QVMgVFVGO1RIQU5RREVQQ0hBSTsyMDI0LTEwLTMxOzA4OjE2OjU5IFNBOzE7MjY3OA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="dientichhinhtron" type="Real" array="False" size=""/>
+            <declare name="bankinh" type="Integer" array="False" size=""/>
+            <output expression="&quot;nhapbankinh&quot;" newline="True"/>
+            <input variable="bankinh"/>
+            <assign variable="dientichhinhtron" expression="3.14*bankinh^2"/>
+            <output expression="&quot;dien tich hinh tron la&quot; &amp;dientichhinhtron" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
