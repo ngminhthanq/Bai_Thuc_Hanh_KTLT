@@ -1,4 +1,4 @@
-print("Nguyen Minh Thanq")
+print("Nguyen Minh Thanq 235752021610097")
 a="Hello Guy"
 def say():
     global a;
